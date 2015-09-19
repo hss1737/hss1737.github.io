@@ -16,7 +16,7 @@
 			</div>
 		</div>
 		<div>
-			<img src="plz05.jpg"/>
+			<img src="plz05.png"/><img src="plz05.jpg" width="" height="" alt="" />
 		</div>
 		<script src="js/reveal.js"></script>
 		<script>
